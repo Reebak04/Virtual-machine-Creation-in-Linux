@@ -62,7 +62,7 @@ cat /etc/hostname
 ```
 
 ### REG NUMBER: 212222100054
-### NAME: TEJUSVE 
+### NAME: TEJUSVE KABEER F
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/31760086-305c-40af-9894-c12f799ae6e2)
